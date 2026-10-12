@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dravid-123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dravid-Sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I'm currently learning **Data Engineering concepts: Cloud (AWS), PySpark, CI/CD, Git and GitHub**
