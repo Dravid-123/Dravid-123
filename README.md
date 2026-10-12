@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dravid Sanjay</h1>
-<h3 align="center">An aspiring Data Engineer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dravid-Sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">An aspiring Data Engineer from India</h3>
 
 - 🌱 I'm currently learning **Data Engineering concepts: Cloud (AWS), PySpark, CI/CD, Git and GitHub**
 - 💬 Ask me about **Python, SQL, Databases and Power BI**
